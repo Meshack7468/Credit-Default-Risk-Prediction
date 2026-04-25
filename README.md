@@ -58,8 +58,9 @@ Providing interpretable risk insights for better decision-making
 
 ## CONCLUSION & RECOMMENDATIONS
 
-Default risk is strongly influenced by income, credit score, employment duration, age, interest rate, and loan amount. Higher interest rates, higher loan amounts, lower credit scores, and lower income were connected to higher default risk.
-Applicants with longer employment histories and higher ages showed a lower likelihood of default.
-Random Forest delivered the most balanced performance across Precision, Recall, and F1-score, making it the best model for practical credit risk assessment.
-Credit providers should use the model to detect high-risk applicants for further review while speeding up approvals for lower-risk individuals.
-Continuous monitoring and regular model updates are recommended to maintain accuracy.
+* Default risk is strongly influenced by income, credit score, employment duration, age, interest rate, and loan amount. Higher interest rates, higher loan amounts, lower credit scores, and lower income were connected to higher default risk.
+* Applicants with longer employment histories and higher ages showed a lower likelihood of default.
+* Credit providers should utilize the model to speed up approvals and to detect high-risk applicants.
+* Continuous monitoring and regular model updates are recommended to maintain accuracy.
+
+
