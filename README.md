@@ -39,13 +39,12 @@ Key predictive features include:
 
 ##  METHODS
 
-The project begins with data cleaning, duplicate checks, missing value checks, and preprocessing to prepare the dataset for analysis.
-EDA is then performed to identify borrower behavior patterns and understand relationships across loan and borrower features.
-Correlation analysis showed that multicollinearity was not a major concern.
-SMOTE was applied to handle class imbalance.
-Three models were trained and compared: Logistic Regression as the baseline, Random Forest, and XGBoost
-Prediction & model evaluation using Precision, Recall, F1-score, and ROC-AUC metrics.
-Finally, the Random Forest model was deployed within a Streamlit application to provide an interactive user interface, with Render used for cloud deployment.
+* The project begins with data cleaning, duplicate checks, missing value checks, and preprocessing to prepare the dataset for analysis.
+* EDA is then performed to identify borrower behavior patterns and understand relationships across loan and borrower features.
+* Correlation analysis showed that multicollinearity was not a major concern.
+* Three models were trained and compared: Logistic Regression as the baseline, Random Forest, and XGBoost. SMOTE was applied to handle class imbalance.
+* Prediction & model evaluation using Precision, Recall, F1-score, and ROC-AUC metrics.
+* Finally, the Random Forest model was deployed within a Streamlit application to provide an interactive user interface, with Render used for cloud deployment.
 
 ## KEY VALUE
 
